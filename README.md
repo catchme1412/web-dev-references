@@ -13,5 +13,8 @@ https://getmdl.io/templates/index.html
 Material desing icons
 https://materializecss.com/icons.html
 
+Service worker introduction
+https://developers.google.com/web/fundamentals/primers/service-workers/
+
 
 
