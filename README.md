@@ -1,7 +1,7 @@
 Free loaders and icons 
 https://loading.io/
 
-PSG images
+PNG images
 https://www.uihere.com/free-cliparts/search?q=onion
 
 Webpage and speed optimization
