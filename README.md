@@ -25,6 +25,8 @@ https://webagility.com/posts/the-wonderful-story-of-an-ugly-form
 PWA tutorial
 https://www.youtube.com/watch?v=psB_Pjwhbxo&list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh
 
+FFmpeg is a great tool for quickly changing an AV file's format or quality, extracting audio, creating GIFs, and more.
+https://opensource.com/article/17/6/ffmpeg-convert-media-file-formats
 
 
 
