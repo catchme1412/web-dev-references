@@ -22,6 +22,12 @@ https://materializecss.com/icons.html
 CSS Selector 
 https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 
+CSS grid system
+https://www.sitepoint.com/understanding-css-grid-systems/
+
+Shadow dom 
+https://www.webcomponents.org/community/articles/introduction-to-shadow-dom
+
 # PWA
 
 Service worker introduction
