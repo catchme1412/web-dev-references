@@ -52,6 +52,12 @@ https://www.sitepoint.com/understanding-css-grid-systems/
 * Shadow dom 
 https://www.webcomponents.org/community/articles/introduction-to-shadow-dom
 
+* Flex box layout
+https://www.w3schools.com/css/css3_flexbox.asp
+
+* CSS Entities
+https://www.w3schools.com/cssref/css_entities.asp
+
 
 # SEO
 
