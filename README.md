@@ -1,5 +1,19 @@
 References required to develop a PWA app.
 
+# PWA
+
+PWA tutorial
+https://www.youtube.com/watch?v=psB_Pjwhbxo&list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh
+
+Service worker introduction
+https://developers.google.com/web/fundamentals/primers/service-workers/
+
+
+# Code examples
+
+Web Design & UI Inspiration with Code Snippets
+https://codemyui.com/sign-inup-forgot-password-transition/
+
 # Multimedia
 
 Free loaders and icons 
@@ -18,6 +32,9 @@ https://opensource.com/article/17/6/ffmpeg-convert-media-file-formats
 Material design templates
 https://getmdl.io/templates/index.html
 
+Material style form without Material library
+https://webagility.com/posts/the-wonderful-story-of-an-ugly-form
+
 Material desing icons
 https://materializecss.com/icons.html
 
@@ -33,22 +50,6 @@ https://www.sitepoint.com/understanding-css-grid-systems/
 Shadow dom 
 https://www.webcomponents.org/community/articles/introduction-to-shadow-dom
 
-# PWA
-
-Service worker introduction
-https://developers.google.com/web/fundamentals/primers/service-workers/
-
-
-Material style form without Material library
-https://webagility.com/posts/the-wonderful-story-of-an-ugly-form
-
-PWA tutorial
-https://www.youtube.com/watch?v=psB_Pjwhbxo&list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh
-
-# Code examples
-
-Web Design & UI Inspiration with Code Snippets
-https://codemyui.com/sign-inup-forgot-password-transition/
 
 # SEO
 
