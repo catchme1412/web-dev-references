@@ -1,3 +1,5 @@
+References required to develop a PWA app.
+
 # Multimedia
 
 Free loaders and icons 
@@ -18,6 +20,9 @@ https://getmdl.io/templates/index.html
 
 Material desing icons
 https://materializecss.com/icons.html
+
+Preloader using CSS
+https://ihatetomatoes.net/create-custom-preloading-screen/
 
 CSS Selector 
 https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
