@@ -27,6 +27,12 @@ https://opensource.com/article/17/6/ffmpeg-convert-media-file-formats
 
 # HTML
 
+* Emojis and symbols 
+https://html-css-js.com/html/character-codes/
+
+* HTML Character codes
+https://dev.w3.org/html5/html-author/charref
+
 ## Templates
 
 * Material design templates
