@@ -75,6 +75,11 @@ https://backlinko.com/google-ranking-factors
 * Webpage and speed optimization
 https://gtmetrix.com/
 
+# References
+
+* Github pages
+https://github.com/sindresorhus/awesome#front-end-development
+
 
 
 
