@@ -66,8 +66,17 @@ https://www.w3schools.com/cssref/css_entities.asp
 
 # UX
 
-* Design, prototype, and collaborate
+* Design, prototype, and collaborate online
 https://www.figma.com/
+
+* Wireframe design 
+https://www.mockflow.com
+
+* UX testing
+https://www.loop11.com
+
+* Record user actions 
+https://www.hotjar.com/tour
 
 # SEO
 
