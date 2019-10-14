@@ -66,6 +66,9 @@ https://www.w3schools.com/cssref/css_entities.asp
 
 # UX
 
+* Note: Sketch => Wireframe => Lo-fi Prototype => Hi-fi Mockup => Hi-fi Prototype (Rapid) => Code 
+(Ref: https://www.uxpin.com/studio/ui-design/what-is-a-wireframe-designing-your-ux-backbone/)
+
 * Design, prototype, and collaborate online
 https://www.figma.com/
 
