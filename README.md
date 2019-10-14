@@ -78,6 +78,9 @@ https://www.loop11.com
 * Record user actions 
 https://www.hotjar.com/tour
 
+* Adobe XD 
+https://www.adobe.com/in/products/xd.html
+
 # SEO
 
 * Google ranking
