@@ -8,6 +8,14 @@ https://www.youtube.com/watch?v=psB_Pjwhbxo&list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X8
 * Service worker introduction
 https://developers.google.com/web/fundamentals/primers/service-workers/
 
+# Product discovery
+
+* Market study 
+https://marketingplatform.google.com/about/surveys/
+
+* Business profile
+https://www.google.com/business/?ppsrc=GPDA2
+
 
 # Code examples
 
