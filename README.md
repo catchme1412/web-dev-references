@@ -86,6 +86,9 @@ https://www.mockflow.com
 * UX testing
 https://www.loop11.com
 
+* Skelton screens
+https://www.linkedin.com/pulse/facilitating-better-interactions-using-skeleton-parimala-hariprasad?trk=mp-reader-card
+
 * Record user actions 
 https://www.hotjar.com/tour
 
