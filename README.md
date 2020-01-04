@@ -27,9 +27,9 @@ https://codemyui.com/sign-inup-forgot-password-transition/
 * Free loaders and icons 
 https://loading.io/
 
-* Images
-https://www.uihere.com/free-cliparts/search?q=onion
-https://undraw.co/illustrations
+# Images
+* PNG Images https://www.uihere.com/free-cliparts/search?q=onion
+* SVG images https://undraw.co/illustrations
 
 * FFmpeg is a great tool for quickly changing an AV file's format or quality, extracting audio, creating GIFs, and more.
 https://opensource.com/article/17/6/ffmpeg-convert-media-file-formats
