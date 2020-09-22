@@ -27,6 +27,12 @@ https://codemyui.com/sign-inup-forgot-password-transition/
 * Free loaders and icons 
 https://loading.io/
 
+* Free screen recording
+https://obsproject.com/
+
+* Free video editing tool
+https://www.openshot.org/
+
 # Images
 * PNG Images https://www.uihere.com/free-cliparts/search?q=onion
 * SVG images https://undraw.co/illustrations
