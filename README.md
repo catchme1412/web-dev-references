@@ -90,6 +90,12 @@ https://www.w3schools.com/cssref/css_entities.asp
 * Design, prototype, and collaborate online
 https://www.figma.com/
 
+* Convert your paper prototype to working model
+https://marvelapp.com/
+
+* Free design tool
+https://www.canva.com/
+
 * Wireframe design 
 https://www.mockflow.com
 
