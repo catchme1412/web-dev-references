@@ -33,6 +33,12 @@ https://obsproject.com/
 * Free video editing tool
 https://www.openshot.org/
 
+* Animation 
+https://www.synfig.org/
+
+* Animation
+https://sourceforge.net/projects/tupi2d/
+
 # Images
 * PNG Images https://www.uihere.com/free-cliparts/search?q=onion
 * SVG images https://undraw.co/illustrations
