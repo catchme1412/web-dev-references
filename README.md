@@ -91,6 +91,9 @@ https://www.w3schools.com/css/css3_flexbox.asp
 * CSS Entities
 https://www.w3schools.com/cssref/css_entities.asp
 
+* Responsive CSS in 10 lines
+https://www.youtube.com/watch?v=qm0IfG1GyZU
+
 # UX
 
 * Note: Sketch => Wireframe => Lo-fi Prototype => Hi-fi Mockup => Hi-fi Prototype (Rapid) => Code 
